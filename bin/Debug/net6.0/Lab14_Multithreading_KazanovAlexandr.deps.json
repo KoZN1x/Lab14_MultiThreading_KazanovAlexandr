@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab14_Multithreading_KazanovAlexandr/1.0.0": {
+        "runtime": {
+          "Lab14_Multithreading_KazanovAlexandr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab14_Multithreading_KazanovAlexandr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

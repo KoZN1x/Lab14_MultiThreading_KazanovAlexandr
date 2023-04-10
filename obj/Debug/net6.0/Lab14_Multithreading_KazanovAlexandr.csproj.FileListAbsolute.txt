@@ -1,0 +1,15 @@
+E:\Programms\Lab14_Multithreading_KazanovAlexandr\bin\Debug\net6.0\Lab14_Multithreading_KazanovAlexandr.exe
+E:\Programms\Lab14_Multithreading_KazanovAlexandr\bin\Debug\net6.0\Lab14_Multithreading_KazanovAlexandr.deps.json
+E:\Programms\Lab14_Multithreading_KazanovAlexandr\bin\Debug\net6.0\Lab14_Multithreading_KazanovAlexandr.runtimeconfig.json
+E:\Programms\Lab14_Multithreading_KazanovAlexandr\bin\Debug\net6.0\Lab14_Multithreading_KazanovAlexandr.dll
+E:\Programms\Lab14_Multithreading_KazanovAlexandr\bin\Debug\net6.0\Lab14_Multithreading_KazanovAlexandr.pdb
+E:\Programms\Lab14_Multithreading_KazanovAlexandr\obj\Debug\net6.0\Lab14_Multithreading_KazanovAlexandr.csproj.AssemblyReference.cache
+E:\Programms\Lab14_Multithreading_KazanovAlexandr\obj\Debug\net6.0\Lab14_Multithreading_KazanovAlexandr.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programms\Lab14_Multithreading_KazanovAlexandr\obj\Debug\net6.0\Lab14_Multithreading_KazanovAlexandr.AssemblyInfoInputs.cache
+E:\Programms\Lab14_Multithreading_KazanovAlexandr\obj\Debug\net6.0\Lab14_Multithreading_KazanovAlexandr.AssemblyInfo.cs
+E:\Programms\Lab14_Multithreading_KazanovAlexandr\obj\Debug\net6.0\Lab14_Multithreading_KazanovAlexandr.csproj.CoreCompileInputs.cache
+E:\Programms\Lab14_Multithreading_KazanovAlexandr\obj\Debug\net6.0\Lab14_Multithreading_KazanovAlexandr.dll
+E:\Programms\Lab14_Multithreading_KazanovAlexandr\obj\Debug\net6.0\refint\Lab14_Multithreading_KazanovAlexandr.dll
+E:\Programms\Lab14_Multithreading_KazanovAlexandr\obj\Debug\net6.0\Lab14_Multithreading_KazanovAlexandr.pdb
+E:\Programms\Lab14_Multithreading_KazanovAlexandr\obj\Debug\net6.0\Lab14_Multithreading_KazanovAlexandr.genruntimeconfig.cache
+E:\Programms\Lab14_Multithreading_KazanovAlexandr\obj\Debug\net6.0\ref\Lab14_Multithreading_KazanovAlexandr.dll
